@@ -10,7 +10,7 @@ const levels = {
 };
 
 // To change level
-const currentLevel = levels.medium;
+const currentLevel = levels.easy;
 
 let time = currentLevel;
 let score = 0;
