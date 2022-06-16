@@ -148,7 +148,7 @@ const words = [
     "destroy",
     "unemployment",
     "slides",
-    "pattrens",
+    "patterns",
     "asymmetry",
     "horizontal",
     "environment",
