@@ -187,34 +187,39 @@ const words = [
 
 
     //24 July 2022 - Sunday, Jayden is a awesome boy
-    banjoes,
-    potatoes,
-    dingoes,
-    heroes,
-    memoes,
-    echoes,
-    egos,
-    radios,
-    Africa,
-    parish,
-    mangoes,
-    tomatoes,
-    videos,
-    photos,
-    solos,
-    avacadoes,
-    vetoes,
-    zimbabwe,
-    community,
-    studios,
-    torpedoes,
-    volcanoes
-    embargoes,
-    mosquitoes,
-    sopranos,
-    kangaroos,
-    Madagascar,
-    connections
+    // banjoes,
+    // potatoes,
+    // dingoes,
+    // heroes,
+    // memoes,
+    // echoes,
+    // egos,
+    // radios,
+    // Africa,
+    // parish,
+    // mangoes,
+    // tomatoes,
+    // videos,
+    // photos,
+    // solos,
+    // avacadoes,
+    // vetoes,
+    // zimbabwe,
+    // community,
+    // studios,
+    // torpedoes,
+    // volcanoes
+    // embargoes,
+    // mosquitoes,
+    // sopranos,
+    // kangaroos,
+    // Madagascar,
+    // connections
+
+    //02 Aug 2022 
+    You'll
+    it'll
+    
 
 
 ];
