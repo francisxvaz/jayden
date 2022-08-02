@@ -217,9 +217,9 @@ const words = [
     // connections
 
     //02 Aug 2022 
-    You'll
-    it'll
-    
+    "You\'ll",
+    "it\'ll"
+
 
 
 ];
