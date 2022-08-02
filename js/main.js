@@ -218,10 +218,35 @@ const words = [
 
     //02 Aug 2022 
     "You\'ll",
-    "it\'ll"
-
-
-
+    "it\'ll",
+    "I\'m",
+    "he\'ll",
+    "it\'s",
+    "I\'ve",
+    "dont\'t",
+    "havn\'t",
+    "didn\'t",
+    "who\'s",
+    "she\'ll",
+    "he\'s",
+    "how\'s",
+    "isn\'t",
+    "won\'t",
+    "hasn\'t",
+    "wasn\'t",
+    "she\'s",
+    "you\'ve",
+    "she\'s",
+    "aren\'t",
+    "couldn\'t",
+    "doesn\'t",
+    "shouldn\'t",
+    "decimal",
+    "length",
+    "centimeter",
+    "measure",
+    "millimeters",
+    "measurement",
 ];
 
 // Initialize Game
